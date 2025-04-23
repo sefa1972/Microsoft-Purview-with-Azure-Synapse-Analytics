@@ -57,8 +57,17 @@ The lab uses a PowerShell script to provision the following resources:
 - Search Purview catalog directly from Synapse
 - Create and run a pipeline to load data
 - View pipeline lineage in Purview
-
+  
 ## Cleanup
 Remember to:
 1. Pause the dedicated SQL pool when not in use
 2. Delete the resource group when finished to avoid ongoing charges
+
+👤 Author
+
+Sefa Öztürk
+
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
+
