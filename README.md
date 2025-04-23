@@ -12,7 +12,6 @@ This lab demonstrates how to integrate Microsoft Purview with Azure Synapse Anal
 ## Prerequisites
 - Azure subscription with administrative privileges
 - Exclusive access to the Azure tenant (shared lab environments may not work)
-- Approximately 40 minutes to complete the exercise
 
 ## Lab Setup
 The lab uses a PowerShell script to provision the following resources:
