@@ -1,0 +1,1 @@
+# Microsoft-Purview-with-Azure-Synapse-Analytics
